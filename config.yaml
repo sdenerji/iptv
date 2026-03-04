@@ -1,0 +1,23 @@
+# Behind The Grid - Global Kanal Operasyon Merkezi
+settings:
+  output_file: "premium.m3u"
+  welcome_channel:
+    name: "* BEHIND THE GRID PREMIUM WELCOME *"
+    url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    logo: "https://raw.githubusercontent.com/sdenerji/iptv/main/logo.png"
+
+countries:
+  TR: { name: "TURKEY", url: "https://iptv-org.github.io/iptv/countries/tr.m3u" }
+  ES: { name: "SPAIN", url: "https://iptv-org.github.io/iptv/countries/es.m3u" }
+  BR: { name: "BRAZIL", url: "https://iptv-org.github.io/iptv/countries/br.m3u" }
+  FR: { name: "FRANCE", url: "https://iptv-org.github.io/iptv/countries/fr.m3u" }
+  US: { name: "USA", url: "https://iptv-org.github.io/iptv/countries/us.m3u" }
+  GB: { name: "UK", url: "https://iptv-org.github.io/iptv/countries/uk.m3u" }
+
+categories:
+  SPORTS: ["SPORT", "SPOR", "FOOTBALL", "FUTBOL", "BASKET", "TENIS", "ARENA", "STAD"]
+  NEWS: ["NEWS", "HABER", "CNN", "JOURNAL", "24", "TVNET", "HABERTURK", "INFO"]
+  KIDS: ["KIDS", "ÇOCUK", "CARTOON", "ANIMATION", "DISNEY", "NICKELODEON", "MINIKA", "TRT COCUK"]
+  MUSIC: ["MUSIC", "MUZIK", "MÜZİK", "MTV", "POP", "ROCK", "KRAL", "DREAM", "POWER", "NUMBER ONE"]
+  DOCUMENTARY: ["DOC", "SCIENCE", "NATURE", "BELGESEL", "HISTORY", "WILD", "ANIMAL", "DISCOVERY", "NASA", "ESA"]
+  MOVIES: ["MOVIE", "SİNEMA", "CINEMA", "FILM", "BOX OFFICE", "YEŞİLÇAM", "ACTION", "COMEDY"]

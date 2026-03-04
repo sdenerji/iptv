@@ -1,0 +1,36 @@
+name: Daily IPTV Update
+on:
+  schedule:
+    - cron: '0 3 * * *' # Her sabah 06:00 TSİ
+  workflow_dispatch: # Manuel tetikleme için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Burası kritik: Yazma izni veriyoruz
+    permissions:
+      contents: write 
+      
+    steps:
+      - name: Repo Kontrol
+        uses: actions/checkout@v4 # Daha güncel versiyon
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5 # Daha güncel versiyon
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: pip install requests pyyaml  # pyyaml eklendi
+
+      - name: Scripti Çalıştır
+        run: python generator.py
+
+      - name: Güncellemeleri Kaydet
+        run: |
+          git config --global user.name 'Selcuk-Bot'
+          git config --global user.email 'sd@sdenerji.com'
+          git add premium.m3u
+          # Eğer değişiklik yoksa hata vermemesi için 'exit 0' ekliyoruz
+          git commit -m "Auto-update premium list: $(date +'%Y-%m-%d')" || exit 0
+          git push
