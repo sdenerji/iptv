@@ -433,8 +433,8 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do@SD" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="SPAIN | KIDS",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="SPAIN | GENERAL",Antena 3 Internacional
-http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="SPAIN | GENERAL",Antena 3 Internacional (1080p)
+http://187.190.55.136:5501/udp/225.1.1.101:5101
 #EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="SPAIN | GENERAL",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es@SD" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="SPAIN | GENERAL",Aragon TV (720p) [Geo-Blocked]
@@ -618,7 +618,7 @@ https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="SPAIN | GENERAL",La 1 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="SPAIN | GENERAL",La 2 (1080p)
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="SPAIN | GENERAL",La 2 Canarias (720p)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es@SD" tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" group-title="SPAIN | GENERAL",La 2 Catalunya (720p)
@@ -705,6 +705,8 @@ https://streamer.zapitv.com/PTV-malaga/index.m3u8
 https://streamer.zapitv.com/PTV_sevilla/index.m3u8
 #EXTINF:-1 tvg-id="Punt3.es@SD" tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="SPAIN | GENERAL",Punt 3 Vall Uixó (1080p)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-id="Radio3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" group-title="SPAIN | GENERAL",Radio 3 (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="RadioBocairentTV.es@SD" tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="SPAIN | NEWS",Ràdio Bocairent TV (1080p) [Not 24/7]
 http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="SPAIN | NEWS",Radio Carnaval TV (720p) [Not 24/7]
@@ -729,6 +731,8 @@ https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-id="TVR.es@SD" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="SPAIN | NEWS",Rioja Televisión (360p) [Not 24/7]
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="RNEparatodos.es@SD" tvg-logo="https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png" group-title="SPAIN | GENERAL",RNE para todos (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="SPAIN | GENERAL",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="SPAIN | GENERAL",RTV Marbella (720p)
@@ -3465,6 +3469,8 @@ https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 tvg-id="SCCurrents.us@SD" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="USA | NEWS",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="SchwabNetwork.us@SD" tvg-logo="https://i.imgur.com/zmQnKV6.png" group-title="USA | GENERAL",Schwab Network (1080p)
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScientologyNetwork.us@SD" tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="USA | GENERAL",Scientology Network (1080p)
 https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="KGUNDT6.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png" group-title="USA | NEWS",Scripps News
@@ -4558,7 +4564,7 @@ http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="UK | NEWS",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.uk@SD" tvg-logo="https://i.imgur.com/LBICKI5.png" group-title="UK | GENERAL",Sony Max (576p)
-http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="UK | GENERAL",Spark TV (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="UK | SPORTS",Strongman (720p)
