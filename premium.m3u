@@ -707,6 +707,8 @@ https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="SPAIN | NEWS",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="SPAIN | KIDS",One Piece
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es@SD" tvg-logo="https://i.imgur.com/J6h5IQS.png" group-title="SPAIN | NEWS",Parlamento de Andalucía (576p) [Not 24/7]
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="SPAIN | NEWS",Parlamento de Navarra (368p) [Not 24/7]
@@ -719,6 +721,8 @@ http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
 https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="SPAIN | GENERAL",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@Spain" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="SPAIN | MOVIES",Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es@SD" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="SPAIN | MUSIC",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es@SD" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="SPAIN | NEWS",Popular TV Melilla (1080p) [Not 24/7]
@@ -751,7 +755,7 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="SPAIN | MOVIES",Rakuten TV Top Movies Spain (1080p)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="RakutenViki.es@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="SPAIN | GENERAL",Rakuten Viki (1080p)
+#EXTINF:-1 tvg-id="RakutenViki.us@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="SPAIN | GENERAL",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="SPAIN | SPORTS",Real Madrid TV (1080p)
 http://45.95.78.232:8001/udp/239.106.85.7:5000
@@ -1007,6 +1011,8 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 http://x1co.com.br:8080/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="BRAZIL | KIDS",Nickelodeon Clássico
 https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br/logo.png" group-title="BRAZIL | KIDS",NickOnline (576p)
+http://x1co.com.br:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="BRAZIL | NEWS",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-logo="" group-title="BRAZIL | GENERAL",Novo Tempo (720p)
@@ -1015,6 +1021,8 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="BRAZIL | KIDS",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@BR" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="BRAZIL | KIDS",One Piece
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="BRAZIL | GENERAL",Play TV (720p)
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="BRAZIL | NEWS",Plena TV (720p)
@@ -1255,7 +1263,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="BRAZIL | NEWS",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFOP.br@SD" tvg-logo="https://i.imgur.com/6bRyqmj.png" group-title="BRAZIL | DOCUMENTARY",TV UFOP (1080p)
+#EXTINF:-1 tvg-id="TVUFOP.br@SD" tvg-logo="https://i.imgur.com/6bRyqmj.png" group-title="BRAZIL | GENERAL",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="BRAZIL | GENERAL",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
@@ -1457,6 +1465,8 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="FRANCE | GENERAL",NOVO19 (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@FR" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="FRANCE | KIDS",One Piece
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="FRANCE | MUSIC",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="FRANCE | GENERAL",Planete+ (1080p) [Geo-Blocked]
@@ -1617,8 +1627,8 @@ https://30a-tv.com/beachy.m3u8
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="USA | GENERAL",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-id="48Hours.us@SD" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="USA | GENERAL",48 Hours
-https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="USA | GENERAL",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="USA | MOVIES",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="USA | MOVIES",80s Rewind
@@ -2001,8 +2011,8 @@ https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 #EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="USA | NEWS",BUTV10 (Boston University) (1080p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png" group-title="USA | GENERAL",BUZZR (1080p) [Geo-blocked]
-https://pb-zwgnik5g9oqng.akamaized.net/BUZZR.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png" group-title="USA | GENERAL",BUZZR (720p)
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="USA | GENERAL",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="USA | GENERAL",BX Culture (720p)
@@ -3047,6 +3057,8 @@ https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="USA | KIDS",Naruto (1080p)
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="USA | KIDS",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us@SD" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="USA | GENERAL",Nashua ETV Channel 22 Nashua NH
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GovernmentTV16.us@SD" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="USA | GENERAL",Nashua GTV Channel 16 Nashua NH
@@ -3325,6 +3337,10 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="USA | MOVIES",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@US" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="USA | KIDS",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us@SD" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" group-title="USA | KIDS",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD" tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="USA | GENERAL",Pluto TV Backcountry
 https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCars.us@SD" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="USA | GENERAL",Pluto TV Cars
@@ -3429,7 +3445,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 https://eu1.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="RainbowRuby.us@SD" tvg-logo="https://i.imgur.com/eHNU2OQ.png" group-title="USA | GENERAL",Rainbow Ruby (720p)
 https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="RakutenViki.es@US" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="USA | GENERAL",Rakuten Viki (1080p)
+#EXTINF:-1 tvg-id="RakutenViki.us@US" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="USA | GENERAL",Rakuten Viki (1080p)
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="USA | GENERAL",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
@@ -3697,8 +3713,8 @@ https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" tvg-logo="https://i.imgur.com/LuE8Wl4.png" group-title="USA | GENERAL",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
 https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="USA | GENERAL",The Q India (1080p)
-https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="USA | GENERAL",The Q India (576p)
+https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-id="TheRifleman.us@SD" tvg-logo="https://i.imgur.com/60YejJs.png" group-title="USA | GENERAL",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-id="TheSoutheasternChannel.us@SD" tvg-logo="https://i.imgur.com/E5dmC1U.png" group-title="USA | GENERAL",The Southeastern Channel (540p)
