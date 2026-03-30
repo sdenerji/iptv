@@ -17,26 +17,9 @@ countries:
   GB: { name: "UK", url: "https://iptv-org.github.io/iptv/countries/uk.m3u" }
 
 categories:
-  SPORTS: 
-    - "SPORT", "SPOR", "FOOTBALL", "FUTBOL", "FUTEBOL", "FUSSBALL", "BASKET", "TENIS", "ARENA", "STAD"
-    - "СПОРТ", "ФУТБОЛ", "MATCH", "LIGA", "BEIN", "EUROSPORT", "S SPORT", "TIVIBU", "SKY SPORT"
-    
-  NEWS: 
-    - "NEWS", "HABER", "CNN", "JOURNAL", "24", "INFO", "NOTICIAS", "NOTÍCIAS", "NACHRICHTEN", "AKTUELL"
-    - "НОВОСТИ", "ВЕСТИ", "ТАСС", "TVNET", "HABERTURK", "NTV", "A HABER", "DW", "EURONEWS", "RT"
-    
-  KIDS: 
-    - "KIDS", "ÇOCUK", "CARTOON", "ANIMATION", "DISNEY", "NICKELODEON", "MINIKA", "TRT COCUK"
-    - "ДЕТСКИЙ", "МУЛЬТ", "КАРУСЕЛЬ", "KINDER", "KIKA", "JUNIOR", "NIÑOS", "CRIANÇAS", "BOOMERANG"
-    
-  MUSIC: 
-    - "MUSIC", "MUZIK", "MÜZİK", "MTV", "POP", "ROCK", "KRAL", "DREAM", "POWER", "NUMBER ONE"
-    - "МУЗЫКА", "ШАНСОН", "MUSIK", "SCHLAGER", "CANCIONES", "MUSIQUE", "MEZZO", "VH1", "TRACE"
-    
-  DOCUMENTARY: 
-    - "DOC", "SCIENCE", "NATURE", "BELGESEL", "HISTORY", "WILD", "ANIMAL", "DISCOVERY", "NASA", "ESA"
-    - "DOKU", "WISSEN", "НАУКА", "ИСТОРИЯ", "ПРИРОДА", "DOCUMENTAIRE", "HISTOIRE", "NAT GEO", "PLANET"
-    
-  MOVIES: 
-    - "MOVIE", "SİNEMA", "CINEMA", "FILM", "BOX OFFICE", "YEŞİLÇAM", "ACTION", "COMEDY"
-    - "КИНО", "ФИЛЬМ", "СЕРИАЛ", "БОЕВИК", "FILME", "KINO", "PELÍCULA", "CINE", "NETFLIX", "HBO"
+  SPORTS: ["SPORT", "SPOR", "FOOTBALL", "FUTBOL", "FUTEBOL", "FUSSBALL", "BASKET", "TENIS", "ARENA", "STAD", "СПОРТ", "ФУТБОЛ", "MATCH", "LIGA", "BEIN", "EUROSPORT", "S SPORT", "TIVIBU", "SKY SPORT"]
+  NEWS: ["NEWS", "HABER", "CNN", "JOURNAL", "24", "INFO", "NOTICIAS", "NOTÍCIAS", "NACHRICHTEN", "AKTUELL", "НОВОСТИ", "ВЕСТИ", "ТАСС", "TVNET", "HABERTURK", "NTV", "A HABER", "DW", "EURONEWS", "RT"]
+  KIDS: ["KIDS", "ÇOCUK", "CARTOON", "ANIMATION", "DISNEY", "NICKELODEON", "MINIKA", "TRT COCUK", "ДЕТСКИЙ", "МУЛЬТ", "КАРУСЕЛЬ", "KINDER", "KIKA", "JUNIOR", "NIÑOS", "CRIANÇAS", "BOOMERANG"]
+  MUSIC: ["MUSIC", "MUZIK", "MÜZİK", "MTV", "POP", "ROCK", "KRAL", "DREAM", "POWER", "NUMBER ONE", "МУЗЫКА", "ШАНСОН", "MUSIK", "SCHLAGER", "CANCIONES", "MUSIQUE", "MEZZO", "VH1", "TRACE"]
+  DOCUMENTARY: ["DOC", "SCIENCE", "NATURE", "BELGESEL", "HISTORY", "WILD", "ANIMAL", "DISCOVERY", "NASA", "ESA", "DOKU", "WISSEN", "НАУКА", "ИСТОРИЯ", "ПРИРОDA", "DOCUMENTAIRE", "HISTOIRE", "NAT GEO", "PLANET"]
+  MOVIES: ["MOVIE", "SİNEMA", "CINEMA", "FILM", "BOX OFFICE", "YEŞİLÇAM", "ACTION", "COMEDY", "КИНО", "ФИЛЬМ", "СЕРИАЛ", "БОЕВИК", "FILME", "KINO", "PELÍCULA", "CINE", "NETFLIX", "HBO"]
