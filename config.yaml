@@ -8,6 +8,8 @@ settings:
 
 countries:
   TR: { name: "TURKEY", url: "https://iptv-org.github.io/iptv/countries/tr.m3u" }
+  DE: { name: "GERMANY", url: "https://iptv-org.github.io/iptv/countries/de.m3u" }
+  RU: { name: "RUSSIA", url: "https://iptv-org.github.io/iptv/countries/ru.m3u" }
   ES: { name: "SPAIN", url: "https://iptv-org.github.io/iptv/countries/es.m3u" }
   BR: { name: "BRAZIL", url: "https://iptv-org.github.io/iptv/countries/br.m3u" }
   FR: { name: "FRANCE", url: "https://iptv-org.github.io/iptv/countries/fr.m3u" }
