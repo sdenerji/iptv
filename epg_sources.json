@@ -5,5 +5,8 @@
   "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
   "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
   "https://i.mjh.nz/PlutoTV/fr.xml",
-  "https://i.mjh.nz/PlutoTV/br.xml"
+  "https://i.mjh.nz/PlutoTV/br.xml",
+  "https://epgshare01.online/epgshare01/epg_ripper_RU1.xml.gz",
+  "https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.epg.xml",
+  "https://iptv-org.github.io/epg/guides/de/zattoo.com.epg.xml"
 ]
