@@ -943,6 +943,8 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="RUSSIA | KIDS",Ani (576p)
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="RUSSIA | MOVIES",Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="RUSSIA | MUSIC",BRIDGE (576p)
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="RUSSIA | MUSIC",BRIDGE Classic (576p)
@@ -2239,8 +2241,12 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="BRAZIL | SPORTS",SporTV 2 (1280p)
 https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SporTV2Alternativo.br@SD" tvg-logo="https://i.imgur.com/aoMlRgP.png" group-title="BRAZIL | SPORTS",SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="BRAZIL | SPORTS",SporTV 3 (1080p)
 https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SporTVAlternativo.br@SD" tvg-logo="https://i.imgur.com/8M5dLEb.png" group-title="BRAZIL | SPORTS",SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="BRAZIL | NEWS",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="BRAZIL | GENERAL",Tastemade (720p)
@@ -3445,8 +3451,8 @@ https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="USA | NEWS",Disney Channel East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="USA | NEWS",Disney Junior East (720p) [Not 24/7]
-https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="USA | NEWS",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="USA | NEWS",Disney XD East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us@SD" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="USA | GENERAL",District of Columbia Network (DCN) (1080p)
@@ -5027,6 +5033,8 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="USA | GENERAL",TVSConsumerDirect (720p)
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="USA | SPORTS",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UCTV.us@SD" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="USA | NEWS",UCTV University of California (720p) [Not 24/7]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="USA | SPORTS",Unbeaten Sports Channel (1080p)
