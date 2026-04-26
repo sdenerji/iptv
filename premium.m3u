@@ -2027,7 +2027,7 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CatveMasterTV.br@SD" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="BRAZIL | NEWS",Catve Master TV (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="" group-title="BRAZIL | SPORTS",CazeTV (1080i)
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="BRAZIL | SPORTS",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="BRAZIL | NEWS",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -2079,6 +2079,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="BRAZIL | KIDS",Gloob (576p)
 http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="GloobWeb.br@SD" tvg-logo="https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png" group-title="BRAZIL | NEWS",Gloob Web [Not 24/7]
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="BRAZIL | NEWS",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br@SD" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="BRAZIL | MOVIES",Gospel Movie TV (360p)
@@ -2109,8 +2111,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="BRAZIL | KIDS",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-#EXTINF:-1 tvg-id="NickelodeonWeb.br" tvg-logo="https://i.ibb.co/TxV7nwLw/20260420-172534.png" group-title="BRAZIL | KIDS",Nickelodeon Web (720p)
-https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1co.com.br:8443/logo.png" group-title="BRAZIL | KIDS",NickOnline (720p)
 https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD" tvg-logo="https://x1co.com.br/logobob.png" group-title="BRAZIL | NEWS",NickOnline Spongebob (720p) [Not 24/7]
@@ -3189,7 +3189,7 @@ https://cafetradehls.wns.live/hls/stream.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="USA | MOVIES",Camera Smile (480p)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CampSpoopy.us@SD" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="USA | KIDS",Camp Spoopy (576p)
+#EXTINF:-1 tvg-id="CampSpoopy.us@SD" tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/640x360/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="USA | KIDS",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="CANTV19.us@SD" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="USA | NEWS",CAN TV19 (1080p)
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
