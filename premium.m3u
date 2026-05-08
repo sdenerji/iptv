@@ -926,7 +926,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="RUSSIA | DOCUMENTARY",365 Дней (576p)
 http://31.148.48.15/365_dney/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="RUSSIA | DOCUMENTARY",.sci-fi (576p)
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
+http://tmptv.sunduk.tv/CH175/index.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="RUSSIA | MOVIES",alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="alphaFunny.ru@HD" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png" group-title="RUSSIA | MOVIES",alpha Funny (1080p)
@@ -1033,6 +1033,8 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="RUSSIA | KIDS",STS kids (1080p)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="RUSSIA | GENERAL",Subbota! (1080p)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
 #EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="RUSSIA | DOCUMENTARY",Terra HD (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="RUSSIA | KIDS",TiJi (576p)
@@ -1047,6 +1049,8 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="RUSSIA | NEWS",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="RUSSIA | DOCUMENTARY",viju History (576p)
+http://tmptv.sunduk.tv/CH133/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="RUSSIA | MOVIES",viju TV1000 Русское
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="VitalDrive.ru@HD" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="RUSSIA | SPORTS",VITAL Drive
@@ -1439,8 +1443,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-id="StudiyaFakt.ru@SD" tvg-logo="https://i.imgur.com/y73pRGZ.png" group-title="RUSSIA | GENERAL",Студия Факт
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="RUSSIA | GENERAL",Суббота! (576p)
-http://31.148.48.15/Super/index.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru@SD" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="RUSSIA | NEWS",Сургут 24 (720p) [Not 24/7]
 https://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 tvg-id="Tavriya.ru@SD" tvg-logo="https://i.imgur.com/gqung6i.png" group-title="RUSSIA | GENERAL",Таврия
@@ -2359,8 +2361,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br@SD" tvg-logo="https://i.imgur.com/dDomKND.png" group-title="BRAZIL | NEWS",TV Gideoes (1080p) [Not 24/7]
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGrandeNatal.br@SD" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="BRAZIL | NEWS",TV Grande Natal (1080p)
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGraoPara.br@SD" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="BRAZIL | GENERAL",TV Grao Pará (720p)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="BRAZIL | NEWS",TV Guará (720p) [Not 24/7]
