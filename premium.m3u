@@ -1621,7 +1621,7 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BiosferaTV.es@SD" tvg-logo="https://i.imgur.com/khytcgd.png" group-title="SPAIN | NEWS",Biosfera TV (720p) [Not 24/7]
 https://tvdatta.com:3021/live/biosferatvlive.m3u8
-#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="SPAIN | MOVIES",Bom Cine (1080p)
+#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" group-title="SPAIN | MOVIES",Bom Cine (1080p)
 http://92.176.119.180:2095/play/a17f
 #EXTINF:-1 tvg-id="BonDiaTV.es@SD" tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="SPAIN | GENERAL",Bon Dia TV (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
@@ -3567,8 +3567,6 @@ https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD" tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="USA | NEWS",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-id="DIJIT.us@HD" tvg-logo="https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png" group-title="USA | NEWS",DIJIT (720p)
-https://haus.webchnl.com/memfs/c66b8546-3981-4bcd-ba1c-ab19c86c77b1.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="USA | NEWS",Disney Channel East (720p) [Not 24/7]
 https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="USA | NEWS",Disney Junior (1080i)
