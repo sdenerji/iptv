@@ -1131,6 +1131,8 @@ https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="RUSSIA | GENERAL",Domashniy (576p)
 http://94.230.129.31:8080/Domashnii/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="RUSSIA | MOVIES",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="RUSSIA | GENERAL",Drive (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/drive-hd.m3u8
 #EXTINF:-1 tvg-id="DTRMusic1.ru@HD" tvg-logo="https://i.imgur.com/3picWDA.png" group-title="RUSSIA | MUSIC",DTR Music 1 (720p)
@@ -1265,6 +1267,8 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="RUSSIA | GENERAL",Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="RUSSIA | DOCUMENTARY",Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="RUSSIA | GENERAL",Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="Multimuzyka.ru@SD" tvg-logo="https://i.imgur.com/SYt6BZP.png" group-title="RUSSIA | KIDS",Mult i muzyka (576p)
@@ -1733,8 +1737,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="RUSSIA | MOVIES",Мир Сериала (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="RUSSIA | DOCUMENTARY",Моя Планета (720p)
-http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" tvg-logo="https://i.imgur.com/pdCAUrP.png" group-title="RUSSIA | NEWS",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="RUSSIA | MUSIC",Муз союз (576p)
@@ -7265,8 +7267,8 @@ http://193.46.58.239:8080/Channel5/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="UK | MUSIC",Clubbing TV UK (720p)
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ClublandTV.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png" group-title="UK | MUSIC",Clubland TV (720p)
-http://bore.pub:14073/live.m3u8
+#EXTINF:-1 tvg-id="ClublandTV.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png" group-title="UK | MUSIC",Clubland TV (576i)
+http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="UK | NEWS",CNBC (1080p)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de@GB" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" group-title="UK | GENERAL",CSI: Crime Scene Investigation
